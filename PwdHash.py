@@ -1,3 +1,7 @@
+#Here I will show you how to hash a variable and what this looks like using a password as an example.
+#Relatively simple but important. 
+
+
 import hashlib
 from time import sleep
 #Here we ask for the password which the computer should hash
